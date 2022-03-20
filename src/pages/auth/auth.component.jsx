@@ -7,6 +7,7 @@ function AuthPage() {
     return ( 
         <div className='auth'>
             <SignIn />
+            <SignUp />
         </div>
      );
 }
